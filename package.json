@@ -1,0 +1,23 @@
+{
+  "name": "rankingv1.1",
+  "version": "1.0.0",
+  "description": "A ranking bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C8H9NO2",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@keyv/mongo": "^1.2.1",
+    "@keyv/mysql": "^1.1.5",
+    "@keyv/postgres": "^1.0.17",
+    "@keyv/redis": "^2.2.1",
+    "@keyv/sqlite": "^2.0.3",
+    "chalk": "^5.0.0",
+    "discord-api-types": "^0.25.2",
+    "keyv": "^4.0.4"
+  }
+}
